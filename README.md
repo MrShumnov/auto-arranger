@@ -9,8 +9,8 @@
   The program can be trained in every needed music style, as there are open libraries of guitar tablatures available. 
 
 ## How to use
-Unfortunately, some libraries conflicted with compiler packages, so for using program you should run qt_form.py and all the packages used should be installed first.
+For using program you should run qt_form.py and all the packages used should be installed first.
 
-That's why there is an exaples folder, where you can find:
+There is an exaples folder, where you can find:
 * GuitarPro and .mp3 files with bass guiatar and drums parts created by our model.
 * Screenshots of program.
